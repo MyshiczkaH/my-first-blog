@@ -25,7 +25,7 @@ SECRET_KEY = 'j7021mhap0_g)!wd5cv8utw)f(+m6w@%gyby^bzdv@!2bgi1uv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']#seznam pocitacu kterise muzou k strance pripojit
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']#seznam pocitacu kterise muzou k strance pripojit
 #to je cislo naseho pocitace
 
 
